@@ -1,24 +1,3 @@
-/*
-[x] загрузить evn переменные:
-    AUTH_SERVICE_URL = https://auth.loc
-    CLIENT_ID =
-    CLIENT_REDIRECT_URL =
-    DISABLE_SSL_VERIFY = true
-    go get github.com/joho/godotenv
-
-[x] запустить HTTP server
-  структура для запроса
-  структура для ответа
-  обработчик запроса (заполнение структуры)
-
-[x] написать функцию логина
-
-[x] проверить
-- упаоквать в докер
-- проверить в докере
-- написать свагер или README
-*/
-
 package main
 
 import (
